@@ -1,0 +1,1 @@
+AliHassan is a mobile gaming app featuring an Aviator-style crash game and a Dragon Tiger game, with secure user authentication and a wallet for managing funds, with seamless deposit and withdrawal options.
